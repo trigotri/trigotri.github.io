@@ -27,6 +27,26 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+
+        <!-- Navigation -->
+        <nav>
+          <a href="{{ "/" | absolute_url }}">Home</a><br>
+          <a href="{{ "/about.html" | relative_url }}">About</a><br>
+          <a href="{{ "/news.html" | relative_url }}">News</a><br>
+          <a href="{{ "/publications.html" | relative_url }}">Publications</a>
+        </nav>
+
+      <!-- Social links -->
+      <p class="view" style="margin-top: 1.5em;">
+        <a href="https://linkedin.com/in/ttrigotrindade" title="Thomas Trigo Trindade's LinkedIn"><i class="fa fa-linkedin"></i> LinkedIn </a><br>
+        <a href="https://github.com/trigotri" title="Thomas Trigo Trindade's GitHub"><i class="fa fa-github-alt"></i> GitHub </a><br>
+        <a href="https://scholar.google.com/citations?user=LOrbC_IAAAAJ&hl=en" title="Thomas Trigo Trindade's Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar </a><br>
+        <a href="https://orcid.org/0009-0003-7753-3999" title="Thomas Trigo Trindade's ORCID"><i class="ai ai-orcid"></i> ORCID </a><br>
+        <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Trigo%20Trindade%2C%20Thomas%22&l=list&p=1&s=10&sort=bestmatch" title="Thomas Trigo Trindade's Zenodo"><i class="ai ai-zenodo"></i> Zenodo </a><br>
+        <a href="mailto:thomas.trigotrindade@kaust.edu.sa"><i class="fa fa-paper-plane-o"></i> E-mail </a>
+      </p>
+
+        <!-- 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -42,6 +62,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+      -->
       </header>
       <section>
 
