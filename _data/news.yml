@@ -1,0 +1,26 @@
+
+- title: "PhD at EPFL"
+  start: 2021-09-15
+  start: 2025-12-31
+  location: "Lausanne, Switzerland"
+  description: "Under the supervision of Prof. Fabio Nobile"
+
+- title: "PhD defense at EPFL"
+  start: 2025-12-19
+  location: "Lausanne, Switzerland"
+  description: "Thesis title: Advances in Dynamical Low-Rank Approximations for random PDEs and Data Assimilation"
+
+- title: "Started consultant position at KAUST"
+  start: 2026-04-13
+
+- title: "SciCADE 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  location: "Edinburgh, Scotland"
+  description: "Talk on efficient state/parameter estimation via dynamical low-rank Kalman filters"
+
+- title: "21st International EnKF Workshop"
+  start: 2025-06-02
+  end: 2025-06-04
+  location: "Rosendal, Norway"
+  description: "Talk on efficient state/parameter estimation via dynamical low-rank Kalman filter"
