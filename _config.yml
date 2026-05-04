@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 title: "Thomas Trigo Trindade's website"
 description: "Computational Applied Mathematician"
+logo: /assets/img/logo.jpg
+
+url: "https://trigotri.github.io"
+
+plugins:
+  - jekyll-sitemap
 
 header_pages:
   - index.md
