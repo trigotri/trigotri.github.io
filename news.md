@@ -15,11 +15,11 @@ permalink: /news/
 <hr>
 
 {% for item in year.items %}
-**{{ item.title }}**
+<i class="fa fa-bullhorn"></i> **{{ item.title }}**
 <br>
-{% if item.end %}{{ item.start | date: "%b %d, %Y" }} – {{ item.end | date: "%b %d, %Y" }}{% else %}{{ item.start | date: "%b %d, %Y" }}{% endif %}
-{%if item.location%}*{{item.location}}*{% endif %}
-{% if item.description %}<br>{{ item.description }}{% endif %}
+<i class="fa fa-calendar"></i> {% if item.end %}{{ item.start | date: "%b %d, %Y" }} – {{ item.end | date: "%b %d, %Y" }}{% else %}{{ item.start | date: "%b %d, %Y" }}{% endif %}
+{% if item.location %}<br><i class="fa fa-map-pin"></i> *{{ item.location }}*{% endif %}
+{% if item.description %}<br><i class="fa fa-info-circle"></i> {{ item.description }}{% endif %}
 
 ---
 
