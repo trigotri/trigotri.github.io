@@ -1,0 +1,35 @@
+
+- title: "Dynamical Low-Rank Approximations for Kalman Filtering"
+  year: 2025
+  authors: "T. Trigo Trindade, F. Nobile"
+  doi: ""
+  arxiv: "2509.11210"
+  status: preprint
+
+- title: "Dynamical Low-Rank Ensemble Kalman filter for State/Parameter estimation"
+  year: 2026
+  doi: ""
+  authors: "T. Trigo Trindade, F. Nobile, S. Riffaud"
+  arxiv: "2602.06614"
+  status: preprint
+
+- title: Error Estimates for SUPG-Stabilised Dynamical Low Rank Approximations
+  year: 2025
+  authors: "T. Trigo Trindade, F. Nobile"
+  doi: 10.1007/978-3-031-86169-7_45
+  journal: Lecture Notes in Computational Science and Engineering
+  status: published
+
+- title: "Petrov–Galerkin Dynamical Low Rank Approximation: SUPG stabilisation of advection-dominated problems"
+  journal: Computer Methods in Applied Mechanics and Engineering
+  status: published
+  doi: "10.1016/j.cma.2024.117495"
+  authors: "T. Trigo Trindade, F. Nobile"
+  year: 2025
+
+- title: "A hybrid tau-leap for simulating chemical kinetics with applications to parameter estimation"
+  journal: "Royal Society Open Science"
+  status: published
+  doi: "10.1098/rsos.240157"
+  authors: "T. Trigo Trindade, K. Zygalakis"
+  year: 2024

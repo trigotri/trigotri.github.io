@@ -1,0 +1,25 @@
+
+- title: "SciCADE 2026"
+  start: 2026-06-29
+  end: 2026-07-03
+  location: "Edinburgh, Scotland"
+  description: "Talk on efficient state/parameter estimation via dynamical low-rank Kalman filters"
+
+- title: "21st International EnKF Workshop"
+  start: 2026-06-15
+  end: 2025-06-18
+  location: "Rosendal, Norway"
+  description: "Talk on efficient state/parameter estimation via dynamical low-rank Kalman filter"
+
+- title: "UQ Hybrid Seminar"
+  start: 2026-04-07
+  location: "Online"
+  link: "[Event description](https://stochnum.kaust.edu.sa/events/by-type/uq-hybrid-seminar/2026/04/07/dynamical-low-rank-approximations-kalman-filtering) and [Recorded talk](https://www.youtube.com/watch?v=iBX7ypvYFcE)"
+  description: "Title: Dynamical Low-Rank Approximations for Kalman Filtering"
+
+- title: "Isaac Newton Institute: Uncertainty in multivariate, non-Euclidean, and functional spaces: theory and practice"
+  start: 2025-05-06
+  end: 2025-05-09
+  location: Cambridge, England
+  link: "[Event description](https://www.newton.ac.uk/event/rclw01/) and [Recorded talk](https://www.youtube.com/watch?v=8ZATJ-loDSc)"
+  description: "Title: Dynamical Low-Rank Kalman Filtering"

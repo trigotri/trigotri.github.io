@@ -8,19 +8,22 @@
 - title: "I have defended my PhD!"
   start: 2025-12-19
   location: "Lausanne, Switzerland"
-  description: "Thesis title: Advances in Dynamical Low-Rank Approximations for random PDEs and Data Assimilation"
+  description: "[It's official!](https://actu.epfl.ch/news/congratulation-to-dr-thomas-trigo-trindade-for-his/) Thesis title: Advances in Dynamical Low-Rank Approximations for random PDEs and Data Assimilation"
 
-- title: "I have started a consultant position at KAUST"
+- title: "I am starting a Research Consultant position at KAUST"
   start: 2026-04-13
+  location: "KAUST, Saudi Arabia"
+  description: "In the [StochNum group](https://stochnum.kaust.edu.sa/), with Raúl Tempone"
 
-- title: "I'm going to SciCADE 2026!"
-  start: 2026-06-29
-  end: 2026-07-03
-  location: "Edinburgh, Scotland"
-  description: "Talk on efficient state/parameter estimation via dynamical low-rank Kalman filters"
+- title: "I am co-organising a minisymposium at SciCADE 2024"
+  start: 2024-07-14
+  end: 2024-07-19
+  location: "Singapore"
+  description: "In collaboration with Benjamin Carrel, we co-organised the minisymposium 'Dynamical Low Rank Approximation: From Theory to Applications' at [SciCADE 2024](https://www.scicade2024.org/)"
 
-- title: "I'm going to the 21st International EnKF Workshop!"
-  start: 2026-06-15
-  end: 2025-06-18
-  location: "Rosendal, Norway"
-  description: "Talk on efficient state/parameter estimation via dynamical low-rank Kalman filter"
+- title: "I am co-organising the NUMRAD 2024 Summer School at EPFL"
+  start: 2024-06-11
+  end: 2024-06-16
+  location: "Lausanne, Switzerland"
+  description: "In collaboration with Matteo Raviola, Tommaso Vanzan and Fabio Zoccolan, we organised the first [NUMRAD](https://numrad.epfl.ch/) edition at EPFL."
+
