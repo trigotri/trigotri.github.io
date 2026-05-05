@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: "Thomas Trigo Trindade - Homepage"
 ---
 
 # Home 

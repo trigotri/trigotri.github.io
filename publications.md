@@ -2,6 +2,8 @@
 layout: default
 title: Publications
 permalink: /publications/
+description: "Publications by Thomas Trigo Trindade on dynamical low-rank methods, data assimilation, and stochastic PDEs."
+keywords: "data assimilation, dynamical low-rank, stochastic PDEs, particle filters, Kalman filter, Ensemble Kalman, KAUST"
 ---
 
 # Publications

@@ -2,6 +2,7 @@
 layout: default
 title: Talks
 permalink: /talks/
+description: "Talks by Thomas Trigo Trindade on dynamical low-rank methods, data assimilation, and stochastic PDEs."
 ---
 
 # Talks

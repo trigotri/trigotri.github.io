@@ -2,6 +2,7 @@
 layout: default
 title: News
 permalink: /news/
+description: "News relating to Thomas Trigo Trindade on events, changes, and updates"
 ---
 
 # News
