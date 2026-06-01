@@ -29,7 +29,7 @@ I follow this philosophy when researching (and combining):
 
 ## Languages
 I speak French, German, English at a proficient/native level, and Portuguese at a conversational level.
-I received an HSK 5 qualification in Chinese a few years ago, but have not practised that language since.
+I received an HSK 5 qualification in Chinese in 2017, but have not practised that language since.
 
 ## Coding 
 I am a (Neo)vim enthusiast and love to work out of the terminal.
