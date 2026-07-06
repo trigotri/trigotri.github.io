@@ -6,7 +6,7 @@ description: "Thomas Trigo Trindade - Homepage"
 
 # Home 
 
-I am a postdoctoral researcher in applied and computational mathematics, currently affiliated with the [Stochastic Numerics](https://stochnum.kaust.edu.sa/) group at KAUST.
+I am a KAUST Global Fellow researcher in applied and computational mathematics, currently affiliated with the [Stochastic Numerics](https://stochnum.kaust.edu.sa/) group at KAUST.
 I work at the intersection of *numerical analysis* and *data assimilation*, specifically focusing on *model order reduction*, *stochastic (partial) differential equations* and *filtering problems*.
 
 Put simply: I enjoy tackling complex problems by finding mathematical structures to leverage when coding it up --- and I want the code to be fast and reliable. 

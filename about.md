@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 
-I am currently a postdoc at KAUST in the [StochNum](https://stochnum.kaust.edu.sa/) group at KAUST led by Raúl Tempone, and my current projects focus on *data assimilation*, *model order reduction*, and *statistical model calibration*.
+I am currently a KAUST Global Fellow in the [StochNum](https://stochnum.kaust.edu.sa/) group at KAUST led by Raúl Tempone, and my current projects focus on *data assimilation*, *model order reduction*, and *statistical model calibration*.
 Before this, I obtained my PhD at EPFL in 2025 in the [CSQI](https://www.epfl.ch/labs/csqi/) group, under the supervision of Fabio Nobile. 
 My thesis is entitled: "Advances in Dynamical Low-Rank Approximations for random PDEs and Data Assimilation", you can download it [here](https://infoscience.epfl.ch/entities/publication/19da5003-3b77-4c77-bc92-39684a46b0f7).
 Before that, I did my Master's at the University of Edinburgh, in *Computational Applied Mathematics*. 
