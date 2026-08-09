@@ -40,3 +40,4 @@ These days I am mostly using *Julia* and *Python* when coding, but I have varyin
 - **2020** Financial support from the University of Edinburgh to pursue my MSc in Edinburgh
 - **2021** Winner of Best Student Award for Computational Applied Mathematics
 - **2026** Financial support from the [21st international EnKF Worshop](https://www.data-assimilation.no/workshops/EnKF-WS-2026) to attend the Workshop and present a talk and a poster
+- **2026** [KAUST Global Fellowship Program](https://kgfp.kaust.edu.sa/) Awardee
