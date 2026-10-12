@@ -8,10 +8,10 @@
 
 - title: "Dynamical Low-Rank Ensemble Kalman filter for State/Parameter estimation"
   year: 2026
-  doi: ""
+  doi: "10.1016/j.jcp.2026.115433"
   authors: "T. Trigo Trindade, F. Nobile, S. Riffaud"
-  arxiv: "2602.06614"
-  status: preprint
+  journal: Journal of Computational Physics
+  status: published
 
 - title: Error Estimates for SUPG-Stabilised Dynamical Low Rank Approximations
   year: 2025
